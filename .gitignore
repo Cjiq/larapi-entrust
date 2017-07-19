@@ -15,5 +15,7 @@ GTAGS
 .vscode/
 
 storage/*
+storage/framework/cache/*
 !storage/framework/
 !storage/framework/*
+!storage/framework/cache/.gitkeep

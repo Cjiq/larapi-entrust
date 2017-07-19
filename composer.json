@@ -6,16 +6,16 @@
     "type": "project",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.4.*",
+        "laravel/framework": "5.4.22",
         "optimus/distributed-laravel": "~0.1",
         "optimus/bruno": "~2.0",
         "optimus/genie": "~1.0",
-        "sentry/sentry": "~1.6",
+        "sentry/sentry": "1.6.2",
         "optimus/heimdal": "~1.0",
-        "laravel/passport": "^2.0",
+        "laravel/passport": "2.0.6",
         "optimus/api-consumer": "0.2.*",
         "zizaco/entrust": "5.2.x-dev",
-        "owen-it/laravel-auditing": "^4.0"
+        "owen-it/laravel-auditing": "4.0.5"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
