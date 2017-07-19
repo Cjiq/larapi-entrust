@@ -14,5 +14,6 @@ GRTAGS
 GTAGS
 .vscode/
 
-/storage/*
-!/storage/framework
+storage/*
+!storage/framework/
+!storage/framework/*
