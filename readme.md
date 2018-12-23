@@ -32,7 +32,7 @@ Migrate the database tables
 php artisan migrate
 ```
 
-Larapi comes with Passport include as the default authenticatin method. You should now install it using this command.
+Larapi comes with Passport include as the default authentication method. You should now install it using this command.
 
 ```
 php artisan passport:install
